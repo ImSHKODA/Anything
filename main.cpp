@@ -9,6 +9,7 @@ int main()
     int y;
     cout <<"Vvedite chisla" <<endl;
     cin >> x >> y;
+    cout <<"It's working"<<endl;
 
     return 0;
 }
