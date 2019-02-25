@@ -7,10 +7,11 @@ int main()
 {
     int x;
     int y;
-    cout <<"Vvedite chisla" <<endl;
+    cout <<"Vvedite chisla x,y" <<endl;
     cin >> x >> y;
     cout <<"It's working"<<endl;
     cout<<"x+y="<<x+y<<endl;
+    cout<<"We have result x+y!O,Yeah!!!!!" << endl;
 
     return 0;
 }
