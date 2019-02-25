@@ -10,6 +10,7 @@ int main()
     cout <<"Vvedite chisla" <<endl;
     cin >> x >> y;
     cout <<"It's working"<<endl;
+    cout<<"x+y="<<x+y<<endl;
 
     return 0;
 }
