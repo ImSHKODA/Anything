@@ -13,6 +13,7 @@ int main()
     cout<<"x+y="<<x+y<<endl;
     cout<<"We have a result x+y!O,Yeah!!!!!" << endl;
     cout<<"x-y="<<x-y<< " Is it good?"<<endl;
+    cout<<"x*y="<<x*y<<endl;
 
     return 0;
 }
