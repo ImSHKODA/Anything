@@ -12,6 +12,7 @@ int main()
     cout <<"It's working"<<endl;
     cout<<"x+y="<<x+y<<endl;
     cout<<"We have result x+y!O,Yeah!!!!!" << endl;
+    cout<<"x/y="<<x/y<<endl;
 
     return 0;
 }
